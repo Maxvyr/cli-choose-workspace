@@ -16,6 +16,6 @@
     "minimist": "^1.2.6"
   },
   "bin": {
-    "choosemod": "./index.js"
+    "choose-workspace": "./index.js"
   }
 }
