@@ -2,7 +2,7 @@
   "name": "choose-workspace",
   "type": "module",
   "version": "1.0.0",
-  "description": "choose workspace for micro front end",
+  "description": "choose workspace for vscode",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,11 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.0.1",
-    "configstore": "^6.0.0",
     "figlet": "^1.5.2",
     "inquirer": "^8.2.4",
-    "minimist": "^1.2.6",
-    "simple-git": "^3.7.1",
-    "touch": "^3.1.0"
+    "minimist": "^1.2.6"
   }
 }
