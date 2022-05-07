@@ -1,0 +1,25 @@
+{
+    "folders": [
+        {
+            "path": ".vscode"
+        },
+        {
+            "path": "android"
+        },
+        {
+            "path": "ios"
+        },
+        {
+            "path": "lib"
+        },
+        {
+            "path": "web"
+        },
+        {
+            "path": "tengu_sensei_core"
+        },
+        {
+            "path": "tengu_sensei_theme"
+        }
+    ]
+}
